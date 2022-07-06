@@ -1,9 +1,10 @@
+<h1>Eventou</h1>
+<p>Design no figma de um projeto para a diciplina de Gestão de Negocios na faculdade. Feito em grupo.</p>
+<p>Telas no total: 31</p>
 ![image](https://user-images.githubusercontent.com/88604193/177601063-1475d896-8c37-45c8-8c2b-f1338966dc49.png)
 ![image](https://user-images.githubusercontent.com/88604193/177601121-939a9568-07d8-4d64-97e0-e21a1ca6f87d.png)
 ![image](https://user-images.githubusercontent.com/88604193/177601157-f55ca831-0690-4fbd-813c-4e301e9673a7.png)
 ![image](https://user-images.githubusercontent.com/88604193/177601221-2742e636-0f07-4931-988e-a85875349891.png)
-<h1>Eventou</h1>
-<p>Design no figma de um projeto para a diciplina de Gestão de Negocios na faculdade. Feito em grupo.</p>
 <h2>Links</h2>
 <ul>
   <li>

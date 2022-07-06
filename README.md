@@ -1,25 +1,30 @@
-![image](https://user-images.githubusercontent.com/88604193/177590405-8257aa8c-137d-41cb-9f2d-0035e5ddac3f.png)
-![image](https://user-images.githubusercontent.com/88604193/177590764-4ea508aa-5859-4dd3-91ad-f1f774793494.png)
-![image](https://user-images.githubusercontent.com/88604193/177591149-313dbe94-1694-4413-9e4b-157c81bde321.png)
-![image](https://user-images.githubusercontent.com/88604193/177592156-1b5ca0d8-957e-4e0c-9375-ba54c0f80bde.png)
+![image](https://user-images.githubusercontent.com/88604193/177601063-1475d896-8c37-45c8-8c2b-f1338966dc49.png)
+![image](https://user-images.githubusercontent.com/88604193/177601121-939a9568-07d8-4d64-97e0-e21a1ca6f87d.png)
+![image](https://user-images.githubusercontent.com/88604193/177601157-f55ca831-0690-4fbd-813c-4e301e9673a7.png)
+![image](https://user-images.githubusercontent.com/88604193/177601221-2742e636-0f07-4931-988e-a85875349891.png)
 <h1>Eventou</h1>
 <p>Design no figma de um projeto para a diciplina de Gestão de Negocios na faculdade. Feito em grupo.</p>
 <h2>Links</h2>
 <ul>
   <li>
-    <a href="https://www.figma.com/file/nUl832qQihqe5KBWQHTh28/Eventus?node-id=117%3A277">Link do Figma</a>
+    <a href="https://www.figma.com/file/rHpkm29Hr9zxwJ7aLq850N/Letivo?node-id=0%3A1">Link do Figma</a>
   </li>
   <li>
     <a href="https://sabrinaalves.tk" target="_blank">Meu portifólio</a>
   </li>
 </ul>
 <h2>Ideia de app</h2>
-<p>O eventou é um aplicativo que junta todos os eventos em uma rede de informação só. <br>
-O aplicativo utiliza de uma IA (Inteligência artificial) para procurar os eventos nos principais sites de shows, palestras, conferências, etc. Ainda assim, da para cadastras sua festividade pelo site. <br>
-Além de tudo isso, contamos com cupons exlusivos para você aproveitar seu evento com o menor preço! <br>
-Aqui você pode achar eventos, salvar suas festividades favoritas e salvar seus eventos comprados nos sites oficiais. <br>
-Não existe a possibilidade de comprar ingressos no app, apenas direcionamos para o site original do evento caso queira adquirir o ingresso. <br>
-O app é livre para todos os públicos, mas cada evento tem sua própria classificação indicativa.</p>
+<p>Vocês sabiam que a maioria dos materiais escolares ficam num canto acumulando poeira ou são descartados. <br>
+A nossa proposta vem resolver esse problema. <br>
+O letivo é uma plataforma aberta em formato de  marketplace especializada em produtos didáticos usados ou novos. <br>
+Você pode anunciar seus materiais de estudos em nossa plataforma ou caso esteja precisando, compra-los. O nosso foco é auxiliar alunos, ex-alunos, pais e responsáveis para que o ano letivo seja benéfico. <br>
+Na hora da compra, o cliente poderá escolher diversos tipos de logísticas como Correios, Loggi e motoboys <br>
+E se o vendedor estiver próximo do comprador, ele poderá escolher se quer combinar uma entrega pessoalmente, além das diversas opções de pagamento como pix, cartão de crédito e boleto. <br>
+Nossas formas de lucro provém de uma porcentagem obtida em cada venda feita. Outra forma de obter receita é por meio de propaganda. <br>
+Nosso aplicativo tem a logística mais rápida pelas diferentes formas de entrega, é de fácil uso e possui menos taxas que os outros marketplaces. <br>
+Pretendemos buscar parceirias das principais editoras de livros didáticos e instituições do país no intuito de enrequecer o acervo de nosso aplicativo. <br>
+Dessa forma, estaremos presente nos principais meios de comunicações, e assim poderá obter o aplicativo nas principais lojas como Google Play e Apple Store.
+O letivo estará disponível para o público antes do início do ano letivo de 2023.</p>
 <h2>Status/Nota</h2>
 <ul>
   <li>Finalizado.</li>

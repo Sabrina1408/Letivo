@@ -2,19 +2,19 @@
 ![image](https://user-images.githubusercontent.com/88604193/177601121-939a9568-07d8-4d64-97e0-e21a1ca6f87d.png)
 ![image](https://user-images.githubusercontent.com/88604193/177601157-f55ca831-0690-4fbd-813c-4e301e9673a7.png)
 ![image](https://user-images.githubusercontent.com/88604193/177601221-2742e636-0f07-4931-988e-a85875349891.png)
-<h1>Letivo</h1>
+<h1>👩🏽‍💻 Letivo</h1>
 <p>Design no figma de um projeto para a diciplina de Gestão de Negocios na faculdade. Feito em grupo.</p>
 <p>Telas no total: 31</p>
-<h2>Links</h2>
+<h2>🎯 Links e 🎨 Figma</h2>
 <ul>
   <li>
     <a href="https://www.figma.com/file/rHpkm29Hr9zxwJ7aLq850N/Letivo?node-id=0%3A1">Link do Figma</a>
   </li>
   <li>
-    <a href="https://sabrinaalves.tk" target="_blank">Meu portifólio</a>
+    <a href="https://sabrinaalvesbrito.com.br" target="_blank">Meu portifólio</a>
   </li>
 </ul>
-<h2>Ideia de app</h2>
+<h2>👾 Ideia de app</h2>
 <p>Vocês sabiam que a maioria dos materiais escolares ficam num canto acumulando poeira ou são descartados. <br>
 A nossa proposta vem resolver esse problema. <br>
 O letivo é uma plataforma aberta em formato de  marketplace especializada em produtos didáticos usados ou novos. <br>
@@ -26,12 +26,9 @@ Nosso aplicativo tem a logística mais rápida pelas diferentes formas de entreg
 Pretendemos buscar parceirias das principais editoras de livros didáticos e instituições do país no intuito de enrequecer o acervo de nosso aplicativo. <br>
 Dessa forma, estaremos presente nos principais meios de comunicações, e assim poderá obter o aplicativo nas principais lojas como Google Play e Apple Store.
 O letivo estará disponível para o público antes do início do ano letivo de 2023.</p>
-<h2>Status/Nota</h2>
-<ul>
-  <li>Finalizado.</li>
-  <li>Nota AVA1: </li>
-</ul>
-<h1>Aprendizado</h1>
+<h2>👽 Status - Finalizado</h2>
+<h2>📚 Nota AVA2: 97</h2>
+<h2>🧐 Aprendizado</h2>
 <ul>
   <li>Matriz SWOT, Poter, CNB, ...</li>
   <li>Como fazer Pith.</li>
